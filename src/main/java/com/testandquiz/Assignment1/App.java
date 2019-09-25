@@ -1,7 +1,7 @@
 package com.testandquiz.Assignment1;
 
 /**
- * Hello world!
+ * Hello chut!
  *
  */
 public class App 
